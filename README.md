@@ -18,7 +18,7 @@ Bibliotecas usadas:
 
 ## Autor
 
-Desenvolvido po Marcos Vinicius Thibes Kemer
+Desenvolvido por Marcos Vinicius Thibes Kemer
 
 
 
