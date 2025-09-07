@@ -15,5 +15,11 @@ Bibliotecas usadas:
  - seaborn
  - scikit-learn
 
-Link - https://www.hashtagtreinamentos.com/
+---
+
+## Autor
+
+Desenvolvido po Marcos Vinicius Thibes Kemer
+
+---
 
