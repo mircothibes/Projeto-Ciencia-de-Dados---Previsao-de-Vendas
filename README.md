@@ -15,11 +15,10 @@ Bibliotecas usadas:
  - seaborn
  - scikit-learn
 
----
 
 ## Autor
 
 Desenvolvido po Marcos Vinicius Thibes Kemer
 
----
+
 
